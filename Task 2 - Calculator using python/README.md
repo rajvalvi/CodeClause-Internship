@@ -29,10 +29,10 @@ To run the calculator on your local machine, follow these steps:
    ```bash
    git clone https://github.com/rajvalvi/CodeClause-Internship.git
 
-2. Navigate to the project directory:
-   ```bash
-  cd Task 2 - Calculator using python
+2. Navigate to the project directory:  
+   ```bash cd Task 2 - Calculator using python
+  
 
-4. Run the Python script:
-   ```bash
-  python calculator.py
+3. Run the Python script:
+   ```bash python calculator.py
+  
