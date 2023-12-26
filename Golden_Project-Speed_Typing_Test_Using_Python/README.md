@@ -9,6 +9,15 @@ The Typing Speed Test is a simple Python application built using the Tkinter lib
 - Visual feedback for correct and incorrect typing.
 - Restart the test for additional practice.
 
+## Output Windows  
+<img width="379" alt="Screenshot 2023-12-26 204806" src="https://github.com/rajvalvi/CodeClause-Internship/assets/50544145/229d2ec6-b069-4da9-b2f7-49bfba5b9d5a">  
+
+<img width="380" alt="Screenshot 2023-12-26 204902" src="https://github.com/rajvalvi/CodeClause-Internship/assets/50544145/f72f3092-9164-43a1-865d-81456ad03f3d">
+
+
+
+
+
 ## Getting Started
 
 ### Prerequisites
